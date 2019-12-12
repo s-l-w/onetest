@@ -3,7 +3,7 @@
 
 
 int main ()
-{int num(char);
+{int num(char a[]);
 int i,k,(*p)(char a[]);
 char b[100];
     gets(b);
@@ -12,7 +12,7 @@ k=(*p)(b);
 printf("%d",k);
 return 0;
 }
-int num(char)
+int num(char a[])
 {int n,l;
 for(n=0;a[n]!=0;n++)
 {
