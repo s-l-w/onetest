@@ -4,6 +4,6 @@
 
 int main ()
 {
-	return("Hey,twotest");
+	return("hey,twotest");
     return 0;
 }
