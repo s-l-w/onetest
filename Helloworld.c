@@ -4,5 +4,6 @@
 
 int main ()
 {
+	printf("just try");
     return 0;
 }
